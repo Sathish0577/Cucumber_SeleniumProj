@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-29T15:19:17 IST" name="Default suite" finished-at="2023-04-29T15:20:58 IST" duration-ms="101031">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-04-29T15:19:17 IST" name="Default test" finished-at="2023-04-29T15:20:58 IST" duration-ms="101031">
+      <class name="cucumberOptions.TestNgTestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:19:17 IST" name="setUpClass" finished-at="2023-04-29T15:19:17 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:19:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:19:29 IST" duration-ms="11362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:19:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:19:39 IST" duration-ms="10401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:19:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:19:52 IST" duration-ms="13162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:19:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:20:14 IST" duration-ms="21336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:20:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:20:37 IST" duration-ms="23490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:20:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T15:20:57 IST" duration-ms="20151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search for a product, add quantity and proceed to checkout , verify details and place Order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Search for a list of products with required quantity and place order]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestNgTestRunner@66d3eec0]" started-at="2023-04-29T15:20:57 IST" name="tearDownClass" finished-at="2023-04-29T15:20:58 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestNgTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
